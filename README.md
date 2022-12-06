@@ -1,4 +1,4 @@
-## Aceita um cafezinho?
+## Aceita um cafezinho? ☕
 
 - 🔭 Atualmente trabalho com Back-End
 - 🌱 Estou Estudando C#
