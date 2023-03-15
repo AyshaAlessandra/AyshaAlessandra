@@ -10,7 +10,7 @@
 </div>
 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyshaAlessandra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyshaAlessandra&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
   
 <div style="display: inline_block", align="center"><br>
   <img align="center" alt="Aysha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
