@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&duration=1&pause=30&center=false&width=3000&height=100&lines=Aceita+um+cafezinho%3F☕" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=55&duration=1&pause=30&center=false&width=3000&height=100&lines=Aceita+um+cafezinho%3F☕" alt="Typing SVG" />
 </a> 
 #
 - 🔭 Atualmente trabalho com Back-End
