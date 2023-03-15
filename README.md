@@ -1,11 +1,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=55&duration=1&pause=30&center=false&width=3000&height=100&lines=Aceita+um+cafezinho%3F☕" alt="Typing SVG" />
 </a> 
 #
-- 🔭 Atualmente trabalho com Back-End
-- 🌱 Estou Estudando C#
+<!-- - 🔭 Atualmente trabalho com Back-End
+ - 🌱 Estou Estudando C# -->
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Work+Sans&size=35&pause=1000&color=C78CF7&center=true&width=1000&height=97&lines=Ol%C3%A1%2C+%C3%A9+um+prazer++em+v%C3%AA-lo+aqui!;Me+chamo+Aysha!;Sou+estudante+FullStack.;Bem+vindo!!+%3A)" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Work+Sans&size=35&pause=1000&color=C78CF7&center=true&width=1000&height=97&lines=Me+chamo+Aysha!;Sou+estudante+FullStack.;+Atualmente+estou+aprimorando++meu+JS;Bem+vindo!!+%3A)" alt="Typing SVG" /></a>
 
 <div align="center">
   <a href="https://github.com/AyshaAlessandra">
@@ -46,7 +45,8 @@
  ![Snake animation](https://github.com/AyshaAlessandra/AyshaAlessandra/blob/output/github-contribution-grid-snake.svg)
   
    <div align="center">
-      <br><p align="centre"><b>Obrigada, por vir!!</b></p>  
+      <br><p align="centre"><b>Obrigada por vir!! <3</b></p>  
+     <img height="200" src="https://media.discordapp.net/attachments/568600306770903040/1085607009740656690/Gif_Readme.gif" alt="Meu gif">
    </div>
  
 </div> 
