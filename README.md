@@ -9,6 +9,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyshaAlessandra&ver=2&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyshaAlessandra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 <div style="display: inline_block", align="center"><br>
   <img align="center" alt="Aysha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Aysha-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
