@@ -7,10 +7,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Work+Sans&size=35&pause=1000&color=C78CF7&center=true&width=1000&height=97&lines=Me+chamo+Aysha!;Sou+estudante+FullStack.;+Atualmente+estou+aprimorando++meu+JS;Bem+vindo!!+%3A)" alt="Typing SVG" /></a>
 
 <div align="center">
-  <a href="https://github.com/AyshaAlessandra">
   <img height="190em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AyshaAlessandra&&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
- <a href="https://github.com/AyshaAlessandra">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyshaAlessandra&layout=compact&&langs_count=8&theme=nightowl" />
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyshaAlessandra&layout=compact&langs_count=8&theme=nightowl" />
 </div>
 
   <div class="Linguagens" style="display: inline_block" , align="center"><br>
